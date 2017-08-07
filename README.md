@@ -65,4 +65,6 @@ except_id.csv
 ## Password Change
 http://10.2.102.150/AhnTree/member/modify_proc.jsp?id=jhlee.trainee&pass=123123&email=jhlee.trainee@ahnlab.com&auth=2&trainee_group=26&expired_date=&originpass=dfb53af394625a5610aeeb760f8a3d10
 
-originpass t/f 상관없이 6자리 이하도 수정이됨. 로그인시에도 js단에서만 막아둠.. 그리고 auth에서 1/2/3 권한으로 계정 변경 가능할지도..ㅋ 
+- original password의 true/false 상관없이 6자리 이하도 수정이됨. 
+- 로그인시에도 js단에서만 막아둠
+- auth에서 1/2/3 권한으로 계정 변경 가능할지
