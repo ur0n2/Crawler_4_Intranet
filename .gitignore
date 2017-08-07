@@ -1,11 +1,5 @@
 legacy/
-lib/
-export_to_html/
-convert_to_pdf/
-substitution_html/
 userlist_from_admin/
 *.csv
 *.pyc
 *.html
-*.txt
-
