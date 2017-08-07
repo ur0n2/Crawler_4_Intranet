@@ -1,4 +1,5 @@
 legacy/
+substitution_html/_Files/
 userlist_from_admin/
 *.csv
 *.pyc
